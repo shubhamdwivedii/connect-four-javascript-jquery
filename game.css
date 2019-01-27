@@ -1,0 +1,13 @@
+.board button{
+    width: 80px; 
+    height: 80px;
+    background-color: gray;
+    margin: 1px;
+    border: 4px solid gray;
+    border-radius: 50%;
+    /* also change hover and selection to circle shape later */
+}
+ 
+#playerturn{
+    color: white; 
+}
