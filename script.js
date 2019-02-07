@@ -1,4 +1,4 @@
-
+//script updated 2/8/19
 //initialize players 
 var playerOne = prompt("Player One (Blue): Enter Your Name");
 if(playerOne === null || playerOne === "") playerOne = "Blue";
